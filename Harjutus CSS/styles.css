@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+}
+/*
+Navbar
+*/
+.navbar {
+  display: grid;
+  align-items: center;
+}
+ul {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: repeat(6, 1fr);
+}
