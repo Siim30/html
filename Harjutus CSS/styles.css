@@ -1,0 +1,108 @@
+body {
+  background-color: darkgreen;
+  background: lightgreen;
+}
+ul {
+  display: grid;
+  list-style: none;
+  margin: 50;
+  padding: 20;
+  float: left;
+  text-align: left;
+}
+a link {
+  padding: 8px;
+  color: green;
+  float: left;
+  font-weight: bold;
+}
+a :visited {
+  color: green;
+  font-size: 25px;
+  width: 15%;
+}
+.sublink {
+  font-weight: normal;
+  display: inline;
+}
+h1 {
+  background-color: green;
+  opacity: 1;
+  font-size: 50px;
+  color: lightgreen;
+  display: block;
+}
+/* Navbar 
+*/
+.link {
+  font-weight: 900;
+  list-style-type: none;
+}
+.sublink1 {
+  color: green;
+  list-style-type: none;
+}
+.sublink2 {
+  color: green;
+  list-style-type: none;
+}
+.sublink3 {
+  color: green;
+  list-style-type: none;
+}
+.link2 {
+  color: green;
+  list-style-type: none;
+}
+.link3 {
+  color: green;
+  list-style-type: none;
+}
+h1 {
+  background-color: green;
+  opacity: 1;
+  font-size: 50px;
+  text-emphasis: none;
+}
+h2 {
+  background-color: green;
+  opacity: 0.6;
+  text-align: none;
+  color: lightgreen;
+}
+th {
+  background-color: green;
+  opacity: 0.6;
+  text-align: center;
+  font-size: 40px;
+  width: 15%;
+  grid-column: 1fr 1fr 1fr;
+}
+td {
+  text-align: center;
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid green;
+  opacity: 0.6;
+}
+.text {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid green;
+  opacity: 0.6;
+}
+.text {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid green;
+  opacity: 0.6;
+}
+.text {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid green;
+  opacity: 0.6;
+}
+tr {
+  color: black;
+}
